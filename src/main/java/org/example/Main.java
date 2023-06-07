@@ -10,7 +10,7 @@ public class Main {
 
 
 
-        User oneUser = new User("Яков", "Янов", "Янович", LocalDate.now());
+        User oneUser = new User("Ярослав", "Янукович", "Янович", LocalDate.now());
         User twoUser = new User("Петров", "Петр", "Петрович", LocalDate.now());
         User threeUser = new User("Сидоров", "Семен", "Петрович", LocalDate.now());
 
