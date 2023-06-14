@@ -15,6 +15,11 @@ public class User {
         this.dateOfBirth = dateOfBirth;
     }
 
+
+    public void saveData(String firstName){
+        this.firstName = firstName;
+    }
+
     public String getFirstName() {
         return firstName;
     }
